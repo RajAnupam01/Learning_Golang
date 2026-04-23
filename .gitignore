@@ -1,0 +1,21 @@
+# Binaries (compiled Go programs)
+*.exe
+*.out
+*.app
+
+# Test binary
+*.test
+
+# Coverage files
+*.cover
+
+# Dependency directory (rare in Go, but just in case)
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
